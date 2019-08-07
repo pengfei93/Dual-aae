@@ -8,7 +8,7 @@ Pytorch0.2.0
 
 # Usage
 
-## Training
+## 1.Training
 
 To train Dual-AAE on MNIST, run the training script below.
 
@@ -16,7 +16,7 @@ To train Dual-AAE on MNIST, run the training script below.
 $ python main.py
 '''
 
-## Testing
+## 2.Testing
 
 To test Dual-AAE on MNIST.
 
