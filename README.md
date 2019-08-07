@@ -2,9 +2,9 @@ This repository provides a PyTorch implementation of Dual-AAE.
 
 # Dependencies
 
-Python3.5
+Python 3.5
 
-Pytorch0.2.0
+Pytorch 0.2.0
 
 # Usage
 
