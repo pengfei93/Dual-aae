@@ -1,4 +1,4 @@
-This repository provides a PyTorch implementation of the paper Dual Adversarial Autoencoders for Clustering.
+This repository provides a PyTorch implementation of the paper *Dual Adversarial Autoencoders for Clustering*.
 
 # Dependencies
 
@@ -12,14 +12,14 @@ Pytorch 0.2.0
 
 To train Dual-AAE on MNIST, run the training script below.
 
-'''
+```
 $ python main.py
-'''
+```
 
 ## 2.Testing
 
 To test Dual-AAE on MNIST.
 
-'''
+```
 $ python mnist_test.py
-'''
+```
