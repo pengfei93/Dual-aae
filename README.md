@@ -1,4 +1,4 @@
-This repository provides a PyTorch implementation of Dual-AAE.
+This repository provides a PyTorch implementation of the paper Dual Adversarial Autoencoders for Clustering.
 
 # Dependencies
 
